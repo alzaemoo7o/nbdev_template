@@ -7,9 +7,7 @@ Use this template to more easily create your nbdev project.
 <html amp lang="en">
   <head>
     <m/eta charset="utf-8">
-<BR xmlns=""></div><div class="content"><form xmlns="" name="addToShelf" method="post" action="http://www.scielo.org/applications/scielo-org/services/addArticleToShelf.php" target="mensagem">
-<input type="hidden" name="PID" value="S1517-45222010000200011"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S1517-45222010000200011%26lng=pt%26nrm=iso%26tlng=es">
-    
+
     
     
     
